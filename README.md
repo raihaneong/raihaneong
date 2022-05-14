@@ -6,7 +6,7 @@ I'm Web developer and Designer
 
 I'm a self-taught programmer who have a tons of passion in web development, and currently still leveling up my skills to be an expert developer
 
-* 🧠  I'm learning Three.js, GSAP and react
+* 🧠  I'm currently focused on learning Three.js, GSAP and react
 
 ### Skills
 
