@@ -25,8 +25,9 @@ I'm a self-taught programmer who have a tons of passion in web development, and 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Deploy
 
-render, heroku, vercel
+Netlify, Render, Heroku, Vercel
 
 ### Socials
 
