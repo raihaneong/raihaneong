@@ -6,9 +6,9 @@ Hi 👋 My name is raihan
 </p>
 
 
-I'm a Web developer and Designer
+Web developer and Designer
 ------------------------------
 
-I'm a self-taught programmer who have a tons of passion in web development, and currently still leveling up my skills to be an expert developer
+a self-taught programmer who have a tons of passion in web development
 
 
