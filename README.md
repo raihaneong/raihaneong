@@ -1,15 +1,8 @@
-Hi 👋 My name is raihan
-=======================
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 私の名前はライハンです。申し訳ありませんが私は日本人ではありません。hehe
 
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1uBSMG4L2Qhn-Tz29j4dK7FDdP45OAfx2" alt ="hello" />
-</p>
+<img src="https://c.tenor.com/F2Yu8YbVV_MAAAAC/hello-cat.gif" width="10em" />
 
-[gif source](https://tenor.com/view/hello-cat-waving-trendizisst-hi-gif-21629939)
 
-Web developer and Designer
-------------------------------
-
-a self-taught programmer who have a tons of passion in web development
+I'm a self-taught programmer who have a tons of passion in web development
 
 
